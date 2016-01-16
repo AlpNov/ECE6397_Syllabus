@@ -73,29 +73,30 @@ Apr 21 | Inverse Velocity , projection onto the null space of the manipulator Ja
 Apr 26 | Singular value decomposition, Manipulability | Read 4.12 & Appendix B
 Apr 28 | Manipulability, gradient projection to achieve secondary tasks.
 
-Academic Honesty Policy: Students in this course are expected to follow the Academic Honesty Policy of the University of Houston.  It is your responsibility to know and follow this policy.  You must sign the Academic Honesty Statement on the last page of this handout, detach it, and submit it.  If you fail to do this, you may be dropped from the course. For more information, see the Academic Honesty in the Undergraduate Catalog which is available on-line at 
-http://catalog.uh.edu/content.php?catoid=8&navoid=1352
+**Academic Honesty Policy**: Students in this course are expected to follow the Academic Honesty Policy of the University of Houston.  It is your responsibility to know and follow this policy.  You must sign the Academic Honesty Statement on the last page of this handout, detach it, and submit it.  If you fail to do this, you may be dropped from the course. For more information, see the [Academic Honesty](http://catalog.uh.edu/content.php?catoid=8&navoid=1352) in the Undergraduate Catalog
 
-Religious Holy Days: Students whose religious beliefs prohibit class attendance on designated dates or attendance at scheduled exams may request an excused absence.  To do this, you are strongly encouraged to request the excused absence, in writing, by Wednesday, February 3, 2015.  Please submit this written request to your instructor to allow the instructor to make appropriate arrangements. 
-More information can be found at 
-http://www.uh.edu/dos/studenthandbook/academicpolicy/a_holydays.html
+**Religious Holy Days**: Students whose religious beliefs prohibit class attendance on designated dates or attendance at scheduled exams may request an excused absence.  To do this, you are **strongly encouraged** to request the excused absence, in writing, by Wednesday, February 3, 2015.  Please submit this written request to your instructor to allow the instructor to make appropriate arrangements. 
+More information can be found [here](http://www.uh.edu/dos/studenthandbook/academicpolicy/a_holydays.html)
 
-Students with Disabilities: Students with recognized disabilities will be provided reasonable accommodations, appropriate to the course, upon documentation of the disability with a Student Accommodation Form from the Center for Students with Disabilities. To receive these accommodations, you must request the specific accommodations, by submitting them to the instructor in writing, by Wednesday, February 3, 2015.  Students who fail to submit a written request will not be considered for accommodations. More information, can be found at
-http://www.uh.edu/dos/studenthandbook/academicpolicy/a_disability.html
+**Students with Disabilities**: Students with recognized disabilities will be provided reasonable accommodations, appropriate to the course, upon documentation of the disability with a Student Accommodation Form from the Center for Students with Disabilities. To receive these accommodations, you must request the specific accommodations, by submitting them to the instructor in writing, by Wednesday, February 3, 2015.  Students who fail to submit a written request will not be considered for accommodations. More information, can be found [here](http://www.uh.edu/dos/studenthandbook/academicpolicy/a_disability.html)
 
-Attendance: Attendance at all classes is expected and required. The instructor may, if he chooses, take attendance in any class, at any time during the class. The instructor may do this as many times per class period as he chooses, without warning. The attendance grade can be included in the grade for the course.  Attendance at every class is expected.  Roll will be occasionally taken and an in-class exam may be given during any class period.  There will be no make-up of missed in-class exams.
+**Attendance**: Attendance at all classes is expected and required. The instructor may, if he chooses, take attendance in any class, at any time during the class. The instructor may do this as many times per class period as he chooses, without warning. The attendance grade can be included in the grade for the course.  Attendance at every class is expected.  Roll will be occasionally taken and an in-class exam may be given during any class period.  There will be no make-up of missed in-class exams.
 
-Grade Posting: You may find out your grade in the course online using PeopleSoft.  Normally, the grades are available about one week after the final exam. The instructor is not allowed to give out grades over the phone or by email.  During the semester, grades will be posted on Blackboard in a secure manner, i.e., so that only you will have access to your grades. Final grades will also be posted on Blackboard at the end of the semester; however, the official grade reporting is done on PeopleSoft, not on the Blackboard.
+**Grade Posting**: You may find out your grade in the course online using PeopleSoft.  Normally, the grades are available about one week after the final exam. The instructor is not allowed to give out grades over the phone or by email.  During the semester, grades will be posted on Blackboard in a secure manner, i.e., so that only you will have access to your grades. Final grades will also be posted on Blackboard at the end of the semester; however, the official grade reporting is done on PeopleSoft, not on the Blackboard.
 
-Grade Point Rule: The following approximate grade point scale will be used in determining your grade.  This scale may be modified somewhat, but is included here so that you will have a general idea of how well you are doing in the course.  The final grade scale will be determined at the end of the semester.
+**Grade Point Rule**: The following approximate grade point scale will be used in determining your grade.  This scale may be modified somewhat, but is included here so that you will have a general idea of how well you are doing in the course.  The final grade scale will be determined at the end of the semester.
 
-	90–100: A's	80–89.9: B's	70–79.9: C's	60–69.9: D's	<60: F
+* 90–100: A's
+* 80–89.9: B's
+* 70–79.9: C's
+* 60–69.9: D's
+* <60: F
 
-	Withdrawal Policy: The withdrawal dates listed in the Academic Calendar section of the Class Schedule will be followed strictly. You may drop the course without receiving a grade until Wednesday, February 4, 2015 which is the University's last day to drop without receiving a grade. After this date and until Monday April 6, which is the University's last day to drop, you may drop with a W if you have not exceeded your total W limit (the limit applies to undergraduate students only). Grades of Incomplete (I) will be given only when a small portion of the course has not been completed for a good reason.  If the material has been completed, an “I” grade cannot be given. Detailed information about these issues is available in the University of Houston Undergraduate Catalog.
+**Withdrawal Policy**: The withdrawal dates listed in the Academic Calendar section of the Class Schedule will be followed strictly. You may drop the course without receiving a grade until Wednesday, February 4, 2015 which is the University's last day to drop without receiving a grade. After this date and until Monday April 6, which is the University's last day to drop, you may drop with a W if you have not exceeded your total W limit (the limit applies to undergraduate students only). Grades of Incomplete (I) will be given only when a small portion of the course has not been completed for a good reason.  If the material has been completed, an “I” grade cannot be given. Detailed information about these issues is available in the University of Houston Undergraduate Catalog.
 
-	Blackboard: We will be using the Blackboard Learn web site (http://www.uh.edu/blackboard) for posting of grades and email only. All documents and handouts will be available on the website at http://www.egr.uh.edu/courses/ece/Ece2300/. We will assume that your UH email alias (joejones@uh.edu) is pointed to a working email server, and that you are available at that address.
+**Blackboard**: We will be using the Blackboard Learn web site (http://www.uh.edu/blackboard) for posting of grades and email only. All documents and handouts will be available on the website at http://www.egr.uh.edu/courses/ece/Ece2300/. We will assume that your UH email alias (joejones@uh.edu) is pointed to a working email server, and that you are available at that address.
 
-	Related Robotics Courses:
-	Consider taking MECE 3400 “Introduction to Mechanics” , 
-	COSC 4332 or 6332 - Medical Robots & Interventions, INDE 7361 - Industrial Robotics
-	ECE 6325 - State-Space Control Systems, ECE 6335 - Digital Control Systems,  ECE 6390 - Linear Multivariable Control Systems, ECE 7333 - Optimal Control Systems, ECE 7334 - Advanced Digital Control Systems
+**Related Robotics Courses**:
+Consider taking [MECE 3400 “Introduction to Mechanics”](http://catalog.uh.edu/preview_course_nopop.php?catoid=8&coid=25949), 
+COSC 4332 or 6332 - Medical Robots & Interventions, INDE 7361 - Industrial Robotics
+ECE 6325 - State-Space Control Systems, ECE 6335 - Digital Control Systems,  ECE 6390 - Linear Multivariable Control Systems, ECE 7333 - Optimal Control Systems, ECE 7334 - Advanced Digital Control Systems
