@@ -37,6 +37,7 @@ Readings and assignments will come from this book.  You may share a book with a 
 
 **Goals**: By the course end, you will be able to implement and use:
 Coordinate transforms, [rotation matrices](https://en.wikipedia.org/wiki/Rotation_matrix), [Denavit-Hartenberg convention](https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters), Robotics [kinematics](https://en.wikipedia.org/wiki/Forward_kinematics) and [inverse kinematics](https://en.wikipedia.org/wiki/Inverse_kinematics), [velocity kinematics](https://en.wikipedia.org/wiki/Robot_kinematics#Velocity_kinematics) and inverse velocity kinematics, basic [computer vision](https://en.wikipedia.org/wiki/Computer_vision), [path planning artificial potential fields](https://www.youtube.com/watch?v=r9FD7P76zJs), [sampling-based methods](http://planning.cs.uiuc.edu/ch5.pdf).  A lab component will integrate these topics with robotic hardware.
+
 | Date | Topics | Assignment
 | --- | --- | --- |
 Jan 19 | General introduction and overview of the course |Read Chap. 1, student registration swarmathon
