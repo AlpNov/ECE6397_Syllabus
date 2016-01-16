@@ -96,8 +96,8 @@ More information can be found [here](http://www.uh.edu/dos/studenthandbook/acade
 
 **Blackboard**: We will be using the Blackboard Learn web site (http://www.uh.edu/blackboard) for posting of grades and email only. All documents and handouts will be available on the website at http://www.egr.uh.edu/courses/ece/Ece2300/. We will assume that your UH email alias (joejones@uh.edu) is pointed to a working email server, and that you are available at that address.
 
-**Related Robotics Courses**:
-* Consider taking [MECE 3400 “Introduction to Mechanics”](http://catalog.uh.edu/preview_course_nopop.php?catoid=8&coid=25949), 
+**Related Robotics Courses**: Consider taking 
+* [MECE 3400 “Introduction to Mechanics”](http://catalog.uh.edu/preview_course_nopop.php?catoid=8&coid=25949), 
 * COSC 4332 or 6332 - Medical Robots & Interventions
 * INDE 7361 - Industrial Robotics
 * ECE 6325 - State-Space Control Systems
