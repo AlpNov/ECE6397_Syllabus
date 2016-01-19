@@ -39,10 +39,11 @@ Readings and assignments will come from this book.  You may share a book with a 
 
  Grades will be determined on the basis of exams, quizzes, attendance, and submitted homework grades with the following approximate weights.  The actual weights will be fixed at the end of the semester.
 
+* 10%   Worksheets
 * 30%	Homework 
 * 20%	Lab 
-* 25%	Exam 1 
-* 25% 	Exam 2
+* 20%	Exam 1 
+* 20% 	Exam 2
 * You are allowed to discuss the homework problems and projects with your classmate but you cannot copy your classmate’s homework and project. 
 * Suspected cases of dishonesty will be promptly submitted to department’s hearing officer, as per the University of Houston’s [Academic Honesty](http://catalog.uh.edu/content.php?catoid=6&navoid=1025%23Article_3._Categories_of_Academic_Dishonesty) policy.
 
@@ -93,6 +94,16 @@ More information can be found [here](http://www.uh.edu/dos/studenthandbook/acade
 * 70–79.9: C's
 * 60–69.9: D's
 * <60: F
+
+## **Extra Credit**:
+
+However, we also want to do well in the swarmathon competition.  For this reason, the team that wins either the physical or the simulated competition will receive 100% in the course. A team that scores nth place receives an additional
+```C
+	15*pow(1.25,2-n)
+```
+That means a 2nd place finish gives you 15% extra credit
+
+Mathematica Demonstrations are important to the instructor.  A published (before the end of the semester), intro-to-robotics-related Mathematica demonstration (with Dr. Becker as the last author), will add 2.5 to 6% to your final grade. Some topics include demonstration on inverse velocity kinematics as robot traces out a square and circle, calculation and plot of manipulability ellipse of robot arm at different configurations, demonstration on DH parameters, visualization of robot workspace configuration vs workspace of an RR robot visualization of workspace singularities.
 
 ## **Withdrawal Policy**:
 
