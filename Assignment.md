@@ -8,7 +8,7 @@
 * **Instructor**:  Dr. Aaron T. Becker, [email](mailto:atbecker@uh.edu), phone: (713) 743-6671
 * **Teaching Assistant**: Li Huang, [email](mailto:lihuang.mech@gmail.com), phone: (713) 743-7296
 
-## **Completing assignments**
+## **Completing programming assignments**
 
 1. To start, [**fork** the Assignment repository][forking].
 1. [**Clone**][ref-clone] the repository to your computer.
