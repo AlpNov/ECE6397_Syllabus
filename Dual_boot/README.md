@@ -21,7 +21,9 @@
 
 * If you're buying a new laptop, choose your hardware according to [this requirement thread][hardware-req]
 
-* Generally an i5 processor or higher without integrated graphic card would be good
+* Generally an i5 processor or higher without integrated graphic card would be more than enough.
+
+* For those of you who own a Microsoft Surface, you can still dual boot Ubuntu as long as you have more than 20GB of disk space left. I'd say the ubuntu partition needs about 10Gb to run. More if plan to use it for something else. [Here][surface-link] is a guide with the same steps as this guide for a Surface Pro 3.
 
 * **A large external hard drive to back up your current data with. So you won't lose your precious homeworks.**
 
@@ -34,6 +36,7 @@
 * ROS Indigo, not newer or older (not Hydro or Jade)
 
 ## **BEFORE the install night, I.E. do this at home**:
+
 
 ### Shrink your partition, we need some space for Ubuntu
 1. Defragment your main partition if needed (Windows only)
@@ -73,3 +76,4 @@ At this point, if you feel confident enough, go ahead and [install ubuntu][ubunt
 [ros-install]:http://wiki.ros.org/indigo/Installation/Ubuntu
 [swarm-install]:https://github.com/BCLab-UNM/Swarmathon-ROS
 [PEBCAK-link]:http://www.catb.org/jargon/html/P/PEBKAC.html
+[surface-link]:http://blog.davidelner.com/dual-booting-ubuntu-14-10-on-the-surface-pro-3/
